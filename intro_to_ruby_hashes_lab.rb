@@ -31,8 +31,7 @@ end
 def read_from_hash(hash, key)
    hash[:key]
    return
-  # return the correct value using the hash and key parameters
-end
+  end
 
 def update_counting_hash(hash, key)
   
